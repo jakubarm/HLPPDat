@@ -1,0 +1,72 @@
+Classification method is: sparse with parameter 0.003
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9633.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.9579.
+Computational time 172.5202 seconds.
+Classification method is: sparse with parameter 0.003
+Deal with occlusions = 1, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9633.
+Deal with occlusions = 1, test occlusion = true  Occluded by 0
+TPR on test data: 0.9579.
+Computational time 179.0139 seconds.
+Classification method is: baggedTree with parameter 1
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.7031.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.6739.
+Computational time 2.2006 seconds.
+Classification method is: baggedTree with parameter 2
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.7430.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.6943.
+Computational time 1.4189 seconds.
+Classification method is: baggedTree with parameter 3
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.8602.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.8231.
+Computational time 1.509 seconds.
+Classification method is: baggedTree with parameter 4
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.8531.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.8234.
+Computational time 1.7589 seconds.
+Classification method is: CART with parameter NaN
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.7961.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.7537.
+Computational time 1.766 seconds.
+Classification method is: CART with parameter NaN
+Deal with occlusions = 1, test occlusion = false,  Occluded by 0
+TPR on test data: 0.8453.
+Deal with occlusions = 1, test occlusion = true  Occluded by 0
+TPR on test data: 0.8307.
+Computational time 20.3176 seconds.
+Classification method is: LDA with parameter 0.55
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9742.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.9703.
+Computational time 1.694 seconds.
+Classification method is: LDA with parameter 0.55
+Deal with occlusions = 1, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9617.
+Deal with occlusions = 1, test occlusion = true  Occluded by 0
+TPR on test data: 0.9579.
+Computational time 19.2818 seconds.
+Classification method is: SVM with parameter 0.9
+Deal with occlusions = 0, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9656.
+Deal with occlusions = 0, test occlusion = true  Occluded by 0
+TPR on test data: 0.9593.
+Computational time 3.3723 seconds.
+Classification method is: SVM with parameter 0.9
+Deal with occlusions = 1, test occlusion = false,  Occluded by 0
+TPR on test data: 0.9805.
+Deal with occlusions = 1, test occlusion = true  Occluded by 0
+TPR on test data: 0.9764.
+Computational time 386.903 seconds.
