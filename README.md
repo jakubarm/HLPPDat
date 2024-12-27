@@ -1,6 +1,7 @@
 # A Human Lying Posture Pressure-Map Dataset (HLPPDat)
 
 ## DIRECTORI
+```
 git_root
 |-Data
 | |-pressure_maps
@@ -34,9 +35,10 @@ git_root
 | |-assess_classifiers_bed_data_occlusions.m
 | |-newBedData20.mat
 |-README.txt
+```
 
 ## INFORMATION
-
+```
 {pressure_maps} folder contains 1280 (.png) pressure images. Lables for pictures are integrated in the "Targets.csv" table
 
 {Measurement.csv} is bonus information about the personal dimensions of all participants
@@ -54,6 +56,7 @@ git_root
 |					|...4 = prone
 |...SubClass:	Identification of variation of main postures 1-16 specified in section "Documentation/subClass_images"
 |...SubjectId:	Segregates a dataset of pressure map images by study participants for LOSO verification.
+```
 
 ## AFFILIATION
 All authors are employees of Brno University of Technology (Czech Republic), Faculty of Electrical Engineering and Communications, Department of Control and Instrumentation.
