@@ -12,7 +12,7 @@ K=max(subject);   % K folds
 % method = 'CART';
 % method = 'LDA';
 % method = 'QDA';
- method = 'SVM';
+% method = 'SVM';
 % method = 'LogReg';
 % method = 'sparse'; sparseMethod = 'MSCC';
 % method = 'sparse'; sparseMethod = 'MC';
@@ -23,7 +23,7 @@ K=max(subject);   % K folds
 % method = 'HoG+SVM';
 % method = 'HoG+PCA+SVM';
 % method = 'HoG+LDA';
-% method = 'HoG+KNN';
+ method = 'HoG+KNN';
 % method = 'CNN';
 % method = 'LogReg';
 % method = 'squeezenet4';
